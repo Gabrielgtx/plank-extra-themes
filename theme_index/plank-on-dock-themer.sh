@@ -339,15 +339,12 @@ clear
 #CLOSING
 clear
 echo "Success!"
-echo "Thanks for trying Plank-Themer v.02!!!"
+echo "Thanks for trying Plank-extra-Themes v.03!!!"
 echo ""
 echo "How to use:"
 echo "-----------"
 echo "1) Click on the NEW DARK ICON you now see on Plank"
 echo "2) Select your theme to change to look of the Dock"
-echo ""
-echo "...And remember to comment if you experience anything odd ^_^"
-echo "https://rhoconlinux.wordpress.com/?s=plank+themer"
 echo ""
 echo ""
 #plank &
